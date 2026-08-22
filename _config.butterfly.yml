@@ -1,0 +1,19 @@
+# 头像
+avatar:
+  img: /img/himari.png
+
+# 整站背景：可以是颜色 / 图片路径 / 数组（数组则每次随机选一个）
+background: /img/arn_pln.jpg
+# background: '#f0f0f0'            # 纯色写法
+# background:                       # 随机多张写法
+#   - /img/background.png
+#   - '#1f2d3d'
+
+# 首页横幅
+index_img: /img/madoka.jpg
+
+# 其他页面（归档/标签/分类等）的横幅，不设则显示默认
+default_top_img:
+
+# 网站图标
+#favicon:
